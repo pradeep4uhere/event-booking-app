@@ -1,12 +1,9 @@
 # Event Booking App
 React-native demo android app for event Booking
 
-Screenshots
+Reference
 -----------
-
-Click to view.
-
-### Mutt
+## https://icons8.com/icon/set/star/material
 
 Screenshots
 -----------
